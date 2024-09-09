@@ -1,4 +1,4 @@
-In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
+**Nxt Trendz - Cart Features** 
 
 ### Refer to the video below:
 
@@ -8,6 +8,8 @@ In this project, let's build a **Nxt Trendz - Cart Features** by applying the co
     <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-output.mp4" type="video/mp4">
   </video>
 </div>
+[![Watch the video](https://link-to-your-thumbnail-image.com)](https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-output.mp4)
+
 <br/>
 
 ### Design Files
