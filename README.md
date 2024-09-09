@@ -3,6 +3,8 @@
 ### Refer to the video below:
 
 <br/>
+### after implementing Cart Feature check the website link in the description
+
 <div style="text-align: center;">
   <video style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
     <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-output.mp4" type="video/mp4">
@@ -10,6 +12,8 @@
 </div>
 
 <br/>
+
+### before implementing cart features section
 <div style="text-align: center;">
     <img src="https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-product-details-output-v0.gif" alt="product details output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
